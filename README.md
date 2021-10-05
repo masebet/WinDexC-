@@ -3,6 +3,8 @@ latihan visual studio CLR
 
 https://www.youtube.com/watch?v=4FGEe5qfOjU
 
+ctrl+alt+x
+
 using namespace System;
 using namespace System::Windows::Forms;
 
